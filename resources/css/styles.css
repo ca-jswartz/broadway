@@ -34,6 +34,7 @@ p {
 
 .location {
 	background-image: url('../images/the-flatiron-building.png');
+	color: white;
 }
 
 .location h3 {
@@ -43,6 +44,10 @@ p {
 .footer {
 	background-color: dimgray;
 	color: white;
+}
+
+.footer p {
+	text-align: left;
 }
 
 .copyright {
