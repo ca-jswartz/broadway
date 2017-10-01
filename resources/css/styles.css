@@ -1,11 +1,38 @@
 * {
 	text-align: center;
+	font-family: Helvetica, Arial, sans-serif; 
+	color: white;
 }
 
-.hero {
-	background-image: url('../images/the-flatiron-building.png');
+nav {
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+h1,
+h2,
+h3,
+p
+{
+	color: black;
+}
+
+
+.white {
+	color: white;
 }
 
 .location {
 	background-image: url('../images/the-flatiron-building.png');
+}
+
+.footer {
+	background-color: dimgray;
+}
+
+.copyright {
+	font-size: 11px;
 }
